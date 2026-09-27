@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github.com/keonholic/keonholic/blob/ed81a84b4b84f00bebcae62b12c95465f857aad2/962fdc7c456b1c1f1bbb62f8cc6207b3.gif" width="200" alt="GIF">
-</p>
+![image alt](https://github.com/keonholic/keonholic/blob/7c9dc1afcb85e6362a50fc5e929ca62a42c32495/af5e1fb84a50cae90d5e6cbbb1cb8a24.jpg) 
